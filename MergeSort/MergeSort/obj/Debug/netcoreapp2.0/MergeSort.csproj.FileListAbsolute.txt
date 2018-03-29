@@ -1,0 +1,11 @@
+/Users/gurvir/Documents/Searches/MergeSort/MergeSort/bin/Debug/netcoreapp2.0/MergeSort.deps.json
+/Users/gurvir/Documents/Searches/MergeSort/MergeSort/bin/Debug/netcoreapp2.0/MergeSort.runtimeconfig.json
+/Users/gurvir/Documents/Searches/MergeSort/MergeSort/bin/Debug/netcoreapp2.0/MergeSort.runtimeconfig.dev.json
+/Users/gurvir/Documents/Searches/MergeSort/MergeSort/bin/Debug/netcoreapp2.0/MergeSort.dll
+/Users/gurvir/Documents/Searches/MergeSort/MergeSort/bin/Debug/netcoreapp2.0/MergeSort.pdb
+/Users/gurvir/Documents/Searches/MergeSort/MergeSort/obj/Debug/netcoreapp2.0/MergeSort.csprojResolveAssemblyReference.cache
+/Users/gurvir/Documents/Searches/MergeSort/MergeSort/obj/Debug/netcoreapp2.0/MergeSort.csproj.CoreCompileInputs.cache
+/Users/gurvir/Documents/Searches/MergeSort/MergeSort/obj/Debug/netcoreapp2.0/MergeSort.AssemblyInfoInputs.cache
+/Users/gurvir/Documents/Searches/MergeSort/MergeSort/obj/Debug/netcoreapp2.0/MergeSort.AssemblyInfo.cs
+/Users/gurvir/Documents/Searches/MergeSort/MergeSort/obj/Debug/netcoreapp2.0/MergeSort.dll
+/Users/gurvir/Documents/Searches/MergeSort/MergeSort/obj/Debug/netcoreapp2.0/MergeSort.pdb
